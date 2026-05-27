@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Max 👋
 
-<!--
-**Soulgit101/Soulgit101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder & Lead Developer at Relentsoft | Based in Ottawa, ON**
 
-Here are some ideas to get you started:
+I am a full-stack software engineer and system architect specializing in building robust web applications, automating complex workflows, and integrating AI. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 My Tech Stack
+* **Backend & API:** Python, Flask, PostgreSQL, REST APIs
+* **Frontend:** Mobile-first HTML, CSS, JavaScript
+* **AI & Automation:** Google Gemini API, Document Parsing algorithms
+* **Infrastructure:** Git, deployment pipelines, secure database management
+
+### 🚀 Featured Projects
+* **GetStudyFlow:** A comprehensive student productivity platform featuring custom 'squad duels' functionality, powered by a Flask and PostgreSQL backend.
+* **Real Estate Genius:** An AI-driven application designed to automate the parsing and management of dense property management documents.
+* **Local Business Architecture:** Engineering lightning-fast, high-converting, mobile-optimized static sites for local service businesses.
+
+### 📫 Let's Connect
+Looking to build something scalable or need a technical consultation? 
+* **Email:** [max@relentsoft.com](mailto:max@relentsoft.com)
