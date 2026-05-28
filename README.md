@@ -23,7 +23,7 @@ Relentsoft is a digital development agency specializing in building robust web a
 ### 📫 Let's Connect
 Looking to build something scalable or need a technical consultation? 
 * **Email:** [info@relentsoft.com](mailto:info@relentsoft.com)
-* **Website:** [relentsoft.com](https://relentsoft.com)
+
 
 ---
 
